@@ -19,3 +19,5 @@ Within the folder:
 ```
 go build .
 ```
+
+Quick note: this project is me trying to learn go. I probably butchered all code standards, sorry!
